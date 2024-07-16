@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coin Tiktok - خدمات شحن عملات تيك توك</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            border-bottom: 2px solid #000;
+            padding-bottom: 10px;
+        }
+        .login-register {
+            background-color: #f8f8f8;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .login-register input[type="text"], .login-register input[type="password"], .login-register input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .login-register button {
+            width: 100%;
+            padding: 10px;
+            background-color: #000;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Coin Tiktok</h1>
+    <p>خدمات شحن عملات تيك توك بأقل الأسعار</p>
+</header>
+
+<div class="container">
+
+    <!-- نبذة مختصرة -->
+    <div class="section">
+        <h2>نبذة مختصرة</h2>
+        <p>مرحباً بكم في Coin Tiktok، الموقع الرائد لشحن عملات تيك توك بأقل الأسعار. نحن نقدم خدمات سريعة وآمنة لشحن عملات تيك توك، مما يتيح لك الاستفادة القصوى من تجربتك على المنصة دون أن تثقل كاهلك بالتكاليف الباهظة. مع Coin Tiktok، يمكنك الوثوق في جودة الخدمة والأسعار التنافسية التي نقدمها، مما يجعل شحن عملات تيك توك أمرًا سهلاً ومريحًا.</p>
+    </div>
+
+    <!-- السيرة الذاتية -->
+    <div class="section">
+        <h2>السيرة الذاتية</h2>
+        <p>هنا يمكن أن تضيف سيرتك الذاتية.</p>
+    </div>
+
+    <!-- الاتصال -->
+    <div class="section">
+        <h2>الاتصال</h2>
+        <p>يمكنك التواصل معنا عبر البريد الإلكتروني التالي: <a href="mailto:example@example.com">example@example.com</a></p>
+    </div>
+
+    <!-- تسجيل الدخول/التسجيل -->
+    <div class="section login-register">
+        <h2>تسجيل الدخول / التسجيل</h2>
+        <form>
+            <input type="text" name="username" placeholder="اسم المستخدم" required>
+            <input type="password" name="password" placeholder="كلمة المرور" required>
+            <input type="email" name="email" placeholder="البريد الإلكتروني" required>
+            <button type="submit">تسجيل الدخول / التسجيل</button>
+        </form>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Coin Tiktok. جميع الحقوق محفوظة.</p>
+</footer>
+
+</body>
+</html>
